@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root{
---bg-color:#ecbfe985;
---primary-color:#BF2EF0;
---secondary-color:#FF7EE2;
+--bg-color:#ffdbfd85;
+--primary-color:#bf2ef0bd;
+--secondary-color:#000000;
 --tipo-fonte: "Fascinate Inline";
 }
 
